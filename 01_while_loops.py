@@ -55,3 +55,6 @@ print("Welcome to the system!")
 # - Number of subjects
 
 print("\nQ2. Student Marks Entry")
+
+total_marks = 0
+subject_count = 0

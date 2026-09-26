@@ -149,3 +149,5 @@ target = 100000
 
 # Continue taking savings until the target is reached.
 while savings < target:
+
+monthly_saving = float(input("Enter amount saved this month: "))

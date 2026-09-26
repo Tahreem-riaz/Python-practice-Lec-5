@@ -156,3 +156,6 @@ monthly_saving = float(input("Enter amount saved this month: "))
 savings += monthly_saving
 
 print("Current Savings:", savings)
+
+print("Savings Goal Reached!")
+print("Final Savings:", savings)

@@ -129,4 +129,18 @@ while price != 0:
     price = float(input("Enter item price (0 to stop): "))
 
 print("Total Shopping Cost:", total_cost)
-   
+
+# ------------------------------------------
+
+# Q5. Savings Goal
+#
+# A student wants to save money for a laptop.
+#
+# Keep asking the user to enter the amount
+# saved each month.
+#
+# Stop when the total savings reach or exceed
+# 100000.
+#
+# Display the final savings amount.
+

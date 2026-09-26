@@ -163,3 +163,13 @@ print("Final Savings:", savings)
 # ==========================================
 # PART C: NUMBER PROCESSING
 # ==========================================
+
+# Q6. Positive Number Counter
+#
+# Keep asking the user to enter numbers.
+#
+# Stop when the user enters 0.
+#
+# Count how many positive numbers were entered.
+#
+# Display the final count.

@@ -104,3 +104,12 @@ while pin != correct_pin:
 # ==========================================
 # PART B: COUNTER AND TOTAL
 # ==========================================
+
+# Q4. Shopping Total
+#
+# Create a program that keeps asking the user
+# to enter the price of an item.
+#
+# Enter 0 to stop adding items.
+#
+# At the end, display the total shopping cost.

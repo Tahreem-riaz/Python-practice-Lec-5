@@ -54,3 +54,4 @@ print("Welcome to the system!")
 # - Total marks
 # - Number of subjects
 
+print("\nQ2. Student Marks Entry")

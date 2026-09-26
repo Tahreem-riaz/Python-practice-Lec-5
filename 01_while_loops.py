@@ -39,3 +39,7 @@ while password != correct_password:
         print("Access Granted!")
     else:
         print("Incorrect Password. Try again.")
+
+print("Welcome to the system!")
+
+# ------------------------------------------

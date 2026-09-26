@@ -99,3 +99,8 @@ while pin != correct_pin:
         print("PIN Accepted")
     else:
         print("Incorrect PIN. Try again.")
+
+
+# ==========================================
+# PART B: COUNTER AND TOTAL
+# ==========================================

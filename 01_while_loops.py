@@ -25,3 +25,6 @@ Total Questions: 10
 # Write your code below:
 
 correct_password = "python123"
+
+# Start with an empty password.
+password = ""

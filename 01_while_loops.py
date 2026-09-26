@@ -6,3 +6,7 @@ Topics: while loop, conditions, counters, user input
 Total Questions: 10
 ========================================================
 """
+
+# ==========================================
+# PART A: BASIC WHILE LOOP PRACTICE
+# ==========================================

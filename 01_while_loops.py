@@ -146,3 +146,6 @@ print("Total Shopping Cost:", total_cost)
 
 savings = 0
 target = 100000
+
+# Continue taking savings until the target is reached.
+while savings < target:

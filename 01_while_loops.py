@@ -8,5 +8,5 @@ Total Questions: 10
 """
 
 # ==========================================
-# PART A: BASIC WHILE LOOP PRACTICE
+# PART A: BASIC WHILE LOOP
 # ==========================================

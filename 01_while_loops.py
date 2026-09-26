@@ -70,3 +70,8 @@ total_marks += marks
 subject_count += 1
 
  marks = int(input("Enter marks (-1 to stop): "))
+
+print("Total Marks:", total_marks)
+print("Number of Subjects:", subject_count)
+
+# ------------------------------------------

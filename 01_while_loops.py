@@ -154,3 +154,5 @@ monthly_saving = float(input("Enter amount saved this month: "))
 
 # Add the monthly saving to the total.
 savings += monthly_saving
+
+print("Current Savings:", savings)

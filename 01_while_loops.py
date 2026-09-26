@@ -188,3 +188,8 @@ while number != 0:
 
  # Ask for the next number.
     number = int(input("Enter a number (0 to stop): "))
+
+print("Positive Numbers:", positive_count)
+
+# ------------------------------------------
+

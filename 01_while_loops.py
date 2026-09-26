@@ -85,5 +85,6 @@ print("Number of Subjects:", subject_count)
 #
 # Display "PIN Accepted" when the correct PIN
 # is entered.
-#
-# Write your code below:
+
+correct_pin = "1234"
+pin = ""

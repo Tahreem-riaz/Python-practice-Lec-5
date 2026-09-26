@@ -211,3 +211,6 @@ number = int(input("Enter a number (-1 to stop): "))
 
 # Continue until -1 is entered.
 while number != -1:
+
+# Add the number to the total.
+total += number

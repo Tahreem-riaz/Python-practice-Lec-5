@@ -217,3 +217,5 @@ total += number
 
  # Ask for the next number.
 number = int(input("Enter a number (-1 to stop): "))
+
+print("Sum of Numbers:", total)

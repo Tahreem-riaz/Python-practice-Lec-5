@@ -118,3 +118,6 @@ total_cost = 0
 
 # Ask for the first item price.
 price = float(input("Enter item price (0 to stop): "))
+
+# Continue adding prices until 0 is entered.
+while price != 0:

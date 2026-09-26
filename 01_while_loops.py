@@ -144,3 +144,5 @@ print("Total Shopping Cost:", total_cost)
 #
 # Display the final savings amount.
 
+savings = 0
+target = 100000

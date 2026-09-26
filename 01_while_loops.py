@@ -93,4 +93,9 @@ pin = ""
 while pin != correct_pin:
 
     pin = input("Enter your four-digit PIN: ")
-    
+
+  # Check whether the entered PIN is correct.
+    if pin == correct_pin:
+        print("PIN Accepted")
+    else:
+        print("Incorrect PIN. Try again.")

@@ -178,3 +178,6 @@ positive_count = 0
 
 # Ask for the first number.
 number = int(input("Enter a number (0 to stop): "))
+
+# Continue until 0 is entered.
+while number != 0:

@@ -76,15 +76,3 @@ print("Number of Subjects:", subject_count)
 
 # ------------------------------------------
 
-# Q2. Student Marks Entry
-#
-# Create a program that keeps asking the user
-# to enter marks.
-#
-# Stop when the user enters -1.
-#
-# After stopping, display:
-# - Total marks
-# - Number of subjects
-#
-# Write your code below:

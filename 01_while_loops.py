@@ -31,4 +31,6 @@ password = ""
 
 # Keep running while the password is incorrect.
 while password != correct_password:
+
+ password = input("Enter your password: ")
     

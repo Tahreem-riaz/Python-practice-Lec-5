@@ -127,4 +127,6 @@ while price != 0:
 
 # Ask for the next item price.
     price = float(input("Enter item price (0 to stop): "))
+
+print("Total Shopping Cost:", total_cost)
    

@@ -181,3 +181,7 @@ number = int(input("Enter a number (0 to stop): "))
 
 # Continue until 0 is entered.
 while number != 0:
+
+# Check if the number is positive.
+    if number > 0:
+        positive_count += 1

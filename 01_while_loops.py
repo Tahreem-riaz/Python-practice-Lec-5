@@ -21,8 +21,7 @@ Total Questions: 10
 # Display:
 # - "Incorrect Password" for a wrong password
 # - "Access Granted" when the password is correct
-#
-# Write your code below:
+
 
 correct_password = "python123"
 
@@ -43,3 +42,15 @@ while password != correct_password:
 print("Welcome to the system!")
 
 # ------------------------------------------
+
+# Q2. Student Marks Entry
+#
+# Create a program that keeps asking the user
+# to enter marks.
+#
+# Stop when the user enters -1.
+#
+# After stopping, display:
+# - Total marks
+# - Number of subjects
+

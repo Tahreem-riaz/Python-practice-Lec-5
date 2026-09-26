@@ -60,3 +60,5 @@ total_marks = 0
 subject_count = 0
 
 marks = int(input("Enter marks (-1 to stop): "))
+
+while marks != -1:

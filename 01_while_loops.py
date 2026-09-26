@@ -88,3 +88,9 @@ print("Number of Subjects:", subject_count)
 
 correct_pin = "1234"
 pin = ""
+
+# Keep asking while the PIN is incorrect.
+while pin != correct_pin:
+
+    pin = input("Enter your four-digit PIN: ")
+    

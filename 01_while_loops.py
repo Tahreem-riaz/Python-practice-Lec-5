@@ -68,3 +68,5 @@ total_marks += marks
 
 # Count the subject.
 subject_count += 1
+
+ marks = int(input("Enter marks (-1 to stop): "))

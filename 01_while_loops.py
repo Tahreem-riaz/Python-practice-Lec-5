@@ -113,3 +113,5 @@ while pin != correct_pin:
 # Enter 0 to stop adding items.
 #
 # At the end, display the total shopping cost.
+
+total_cost = 0

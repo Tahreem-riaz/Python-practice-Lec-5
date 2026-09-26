@@ -175,3 +175,6 @@ print("Final Savings:", savings)
 # Display the final count.
 
 positive_count = 0
+
+# Ask for the first number.
+number = int(input("Enter a number (0 to stop): "))

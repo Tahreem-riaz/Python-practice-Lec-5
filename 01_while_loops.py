@@ -173,3 +173,5 @@ print("Final Savings:", savings)
 # Count how many positive numbers were entered.
 #
 # Display the final count.
+
+positive_count = 0

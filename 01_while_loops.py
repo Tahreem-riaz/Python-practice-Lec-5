@@ -115,3 +115,6 @@ while pin != correct_pin:
 # At the end, display the total shopping cost.
 
 total_cost = 0
+
+# Ask for the first item price.
+price = float(input("Enter item price (0 to stop): "))

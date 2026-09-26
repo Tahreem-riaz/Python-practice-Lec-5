@@ -76,3 +76,14 @@ print("Number of Subjects:", subject_count)
 
 # ------------------------------------------
 
+# Q3. ATM PIN Verification
+#
+# Create a program that asks the user to enter
+# a four-digit PIN.
+#
+# Keep asking until the correct PIN is entered.
+#
+# Display "PIN Accepted" when the correct PIN
+# is entered.
+#
+# Write your code below:

@@ -193,3 +193,13 @@ print("Positive Numbers:", positive_count)
 
 # ------------------------------------------
 
+# Q7. Number Sum Calculator
+#
+# Keep asking the user to enter numbers.
+#
+# Stop when the user enters -1.
+#
+# Calculate and display the sum of all
+# entered numbers.
+#
+# Write your code below:

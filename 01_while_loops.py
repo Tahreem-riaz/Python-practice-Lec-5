@@ -208,3 +208,6 @@ total = 0
 
 # Ask for the first number.
 number = int(input("Enter a number (-1 to stop): "))
+
+# Continue until -1 is entered.
+while number != -1:

@@ -33,4 +33,9 @@ password = ""
 while password != correct_password:
 
  password = input("Enter your password: ")
-    
+
+ # Check if the entered password is correct.
+    if password == correct_password:
+        print("Access Granted!")
+    else:
+        print("Incorrect Password. Try again.")

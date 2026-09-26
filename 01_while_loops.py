@@ -159,3 +159,7 @@ print("Current Savings:", savings)
 
 print("Savings Goal Reached!")
 print("Final Savings:", savings)
+
+# ==========================================
+# PART C: NUMBER PROCESSING
+# ==========================================

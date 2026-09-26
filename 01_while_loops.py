@@ -10,3 +10,16 @@ Total Questions: 10
 # ==========================================
 # PART A: BASIC WHILE LOOP
 # ==========================================
+
+# Q1. Password Retry System
+#
+# Create a program that asks the user to enter
+# a password.
+#
+# Keep asking until the correct password is entered.
+#
+# Display:
+# - "Incorrect Password" for a wrong password
+# - "Access Granted" when the password is correct
+#
+# Write your code below:

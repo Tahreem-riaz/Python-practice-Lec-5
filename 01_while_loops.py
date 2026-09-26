@@ -58,3 +58,5 @@ print("\nQ2. Student Marks Entry")
 
 total_marks = 0
 subject_count = 0
+
+marks = int(input("Enter marks (-1 to stop): "))

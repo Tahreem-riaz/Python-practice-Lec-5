@@ -23,3 +23,5 @@ Total Questions: 10
 # - "Access Granted" when the password is correct
 #
 # Write your code below:
+
+correct_password = "python123"

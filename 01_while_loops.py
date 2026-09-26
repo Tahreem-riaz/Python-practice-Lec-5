@@ -203,3 +203,5 @@ print("Positive Numbers:", positive_count)
 # entered numbers.
 #
 # Write your code below:
+
+total = 0

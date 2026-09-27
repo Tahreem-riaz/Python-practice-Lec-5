@@ -26,3 +26,13 @@ Total Questions: 10
 # d) Calculate the class average.
 
 marks = [78, 45, 92, 33, 86, 59, 71, 28]
+
+passed_students = 0
+total_marks = 0
+highest_marks = marks[0]
+lowest_marks = marks[0]
+
+# Loop through the marks with student numbering.
+for number, mark in enumerate(marks, start=1):
+
+    

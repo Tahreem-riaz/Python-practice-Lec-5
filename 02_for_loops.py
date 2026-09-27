@@ -189,3 +189,5 @@ for number in numbers:
 # a) Count positive numbers.
 # b) Count negative numbers.
 # c) Count zeros.
+
+numbers = [10, -5, 7, -2, 0, 15, -8, 4]

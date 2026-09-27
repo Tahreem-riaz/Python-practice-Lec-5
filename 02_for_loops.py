@@ -272,3 +272,14 @@ for number in numbers:
 # ======================================================
 # TOPIC 8: FOR LOOPS WITH TUPLES
 # ======================================================
+
+# ======================================================
+# Q8. TUPLE ELEMENT SEARCH
+# ======================================================
+# Given:
+# subjects = ("Python", "Math", "English", "Database", "AI")
+#
+# Use a for loop to:
+# a) Display each subject.
+# b) Count how many subjects are in the tuple.
+# c) Check whether "Python" is present.

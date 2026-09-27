@@ -230,3 +230,5 @@ print("Numbers from 1 to 20:")
 # Display numbers from 1 to 20.
 for number in range(1, 21):
     print(number)
+
+print("\nEven Numbers:")    

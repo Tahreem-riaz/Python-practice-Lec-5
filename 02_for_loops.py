@@ -238,3 +238,7 @@ for number in range(2, 21, 2):
     print(number)
 
 total = 0 
+
+# Calculate the sum from 1 to 20.
+for number in range(1, 21):
+    total += number

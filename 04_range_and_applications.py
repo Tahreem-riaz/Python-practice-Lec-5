@@ -112,3 +112,9 @@ for number in range(5, 51, 5):
 #
 # Use range() and a for loop to print
 # the multiplication table of 7 from 1 to 10.
+
+number = 7
+
+for multiplier in range(1, 11):
+
+    result = number * multiplier

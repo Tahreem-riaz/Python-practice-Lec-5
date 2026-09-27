@@ -107,3 +107,8 @@ for character in text.lower():
 
        # Count the total number of letters.
         letter_count += 1
+
+       # Check whether the character is a vowel.
+        if character in vowels:
+            vowel_count += 1
+            vowel_frequency[character] += 1

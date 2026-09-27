@@ -124,3 +124,10 @@ print(number, "x", multiplier, "=", result)
 # ======================================================
 # TOPIC 7: RANGE WITH CONDITIONS
 # ======================================================
+
+# ======================================================
+# Q7. FIND NUMBERS DIVISIBLE BY 3
+# ======================================================
+# Use range() to check numbers from 1 to 30.
+#
+# Print only the numbers that are divisible by 3.

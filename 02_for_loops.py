@@ -317,3 +317,7 @@ print("Python Found:", python_found)
 # a) Calculate the total marks.
 # b) Calculate the average marks.
 # c) Display the average.
+
+marks = [65, 72, 81, 55, 90]
+
+total = 0

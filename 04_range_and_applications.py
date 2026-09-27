@@ -41,3 +41,7 @@ for number in range(1, 11):
 for number in range(2, 21, 2):
     print(number)
 
+
+# ======================================================
+# TOPIC 3: RANGE WITH A NEGATIVE STEP
+# ======================================================

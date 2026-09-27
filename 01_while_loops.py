@@ -219,3 +219,7 @@ total += number
 number = int(input("Enter a number (-1 to stop): "))
 
 print("Sum of Numbers:", total)
+
+# ==========================================
+# PART D: REAL-LIFE APPLICATIONS
+# ==========================================

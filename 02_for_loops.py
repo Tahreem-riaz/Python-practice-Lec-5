@@ -150,3 +150,6 @@ for number in numbers:
 
 print("Number:", number, "Square:", square)
 
+# ======================================================
+# TOPIC 4: FOR LOOPS WITH CONDITIONS
+# ======================================================

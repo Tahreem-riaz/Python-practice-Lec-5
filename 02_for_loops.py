@@ -285,3 +285,6 @@ for number in numbers:
 # c) Check whether "Python" is present.
 
 subjects = ("Python", "Math", "English", "Database", "AI")
+
+subject_count = 0
+python_found = False

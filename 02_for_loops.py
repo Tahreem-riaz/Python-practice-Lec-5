@@ -94,3 +94,6 @@ vowel_frequency = {
     "o": 0,
     "u": 0
 }
+
+# Loop through every character in the text.
+for character in text.lower():

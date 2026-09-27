@@ -60,3 +60,8 @@ print("Passed Students:", passed_students)
 print("Highest Marks:", highest_marks)
 print("Lowest Marks:", lowest_marks)
 print("Class Average:", average)
+
+
+# ======================================================
+# TOPIC 2: FOR LOOPS WITH STRINGS
+# ======================================================

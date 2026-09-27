@@ -202,3 +202,6 @@ print("Factorial:", factorial)
 # b) Calculate the sum of even numbers.
 #
 # Display both results.
+
+even_count = 0
+even_sum = 0

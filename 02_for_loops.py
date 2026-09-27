@@ -325,3 +325,9 @@ total = 0
 # Add each mark to the total.
 for mark in marks:
     total += mark
+
+# Calculate the average.
+average = total / len(marks)
+
+print("Total Marks:", total)
+print("Average Marks:", average)    

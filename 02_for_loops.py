@@ -141,3 +141,6 @@ print("Vowel Frequency:", vowel_frequency)
 # Number: 2 Square: 4
 
 numbers = [2, 4, 6, 8, 10]
+
+# Loop through each number.
+for number in numbers:

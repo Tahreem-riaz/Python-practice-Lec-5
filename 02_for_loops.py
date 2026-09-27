@@ -58,3 +58,5 @@ average = total_marks / len(marks)
 
 print("Passed Students:", passed_students)
 print("Highest Marks:", highest_marks)
+print("Lowest Marks:", lowest_marks)
+print("Class Average:", average)

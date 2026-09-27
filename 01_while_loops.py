@@ -239,3 +239,6 @@ print("Sum of Numbers:", total)
 
 correct_username = "student"
 correct_password = "12345"
+
+username = ""
+password = ""

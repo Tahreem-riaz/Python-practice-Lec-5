@@ -284,3 +284,18 @@ while choice != "4":
   print("4. Exit")
 
 choice = input("Enter your choice: ")
+
+if choice == "1":
+    print("Profile: Student Account")
+
+elif choice == "2":
+    print("Courses: Python, C++, Calculus")
+
+elif choice == "3":
+    print("Skills: Python, C++, Git")
+
+elif choice == "4":
+    print("Exiting the program...")
+
+else:
+    print("Invalid choice. Please try again.")

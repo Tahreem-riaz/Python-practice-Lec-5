@@ -216,3 +216,11 @@ print("Zeros:", zero_count)
 # ======================================================
 # TOPIC 6: FOR LOOPS WITH RANGE()
 # ======================================================
+
+# ======================================================
+# Q6. NUMBER RANGE CALCULATOR
+# ======================================================
+# Use range() and a for loop to:
+# a) Display numbers from 1 to 20.
+# b) Display even numbers from 2 to 20.
+# c) Calculate the sum of numbers from 1 to 20.

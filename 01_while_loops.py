@@ -273,3 +273,6 @@ else:
 # Display a suitable message for each option.   
 
 choice = ""
+
+# Keep displaying the menu until option 4 is selected.
+while choice != "4":

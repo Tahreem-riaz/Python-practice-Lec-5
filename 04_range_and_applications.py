@@ -131,3 +131,7 @@ print(number, "x", multiplier, "=", result)
 # Use range() to check numbers from 1 to 30.
 #
 # Print only the numbers that are divisible by 3.
+
+for number in range(1, 31):
+
+    if number % 3 == 0:

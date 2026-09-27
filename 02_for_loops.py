@@ -288,3 +288,6 @@ subjects = ("Python", "Math", "English", "Database", "AI")
 
 subject_count = 0
 python_found = False
+
+# Loop through each subject.
+for subject in subjects:

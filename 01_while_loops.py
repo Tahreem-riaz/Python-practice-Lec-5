@@ -150,7 +150,7 @@ target = 100000
 # Continue taking savings until the target is reached.
 while savings < target:
 
-monthlysaving = float(input("Enter amount saved this month: "))
+    monthlysaving = float(input("Enter amount saved this month: "))
 
 # Add the monthly saving to the total.
 savings += monthlysaving
@@ -247,8 +247,8 @@ password = ""
 # Continue until both username and password are correct.
 while username != correct_username or password != correct_password:
 
-username = input("Enter username: ")
-password = input("Enter password: ")
+    username = input("Enter username: ")
+    password = input("Enter password: ")
 
 # Check both login details.
 if username == correct_username and password == correct_password:

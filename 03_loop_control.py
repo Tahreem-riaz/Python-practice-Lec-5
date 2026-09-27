@@ -45,3 +45,5 @@ for number in range(1, 11):
 # Use a for loop to search for 18.
 # Print the numbers while searching.
 # Stop the loop when 18 is found.
+
+numbers = [10, 25, 7, 18, 30, 12]

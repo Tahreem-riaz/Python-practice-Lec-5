@@ -10,3 +10,16 @@ Total Questions: 10
 # ======================================================
 # TOPIC 1: BREAK
 # ======================================================
+
+# ======================================================
+# Q1. STOP AT A SPECIFIC NUMBER
+# ======================================================
+# Use a for loop to print numbers from 1 to 10.
+# Stop the loop when the number reaches 6.
+#
+# Expected output:
+# 1
+# 2
+# 3
+# 4
+# 5

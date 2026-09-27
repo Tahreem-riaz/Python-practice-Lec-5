@@ -187,3 +187,7 @@ for value in range(1, number + 1):
     factorial *= value
 
 print("Factorial:", factorial)
+
+# ======================================================
+# TOPIC 10: COUNT AND SUM
+# ======================================================

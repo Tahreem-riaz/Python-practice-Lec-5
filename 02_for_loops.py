@@ -65,3 +65,15 @@ print("Class Average:", average)
 # ======================================================
 # TOPIC 2: FOR LOOPS WITH STRINGS
 # ======================================================
+
+# ======================================================
+# Q2. CHARACTER FREQUENCY ANALYZER
+# ======================================================
+# Given:
+# text = "programming is a powerful skill"
+#
+# Use a for loop to:
+# a) Count vowels and consonants separately.
+# b) Ignore spaces.
+# c) Count how many times each vowel occurs.
+# d) Display the total number of letters.

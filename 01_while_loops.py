@@ -304,3 +304,15 @@ else:
 # ==========================================
 # PART E: CHALLENGE
 # ==========================================
+
+# Q10. Number Guessing Game
+#
+# Store a secret number in a variable.
+#
+# Keep asking the user to guess the number
+# until the correct number is entered.
+#
+# Display:
+# - "Too High" if the guess is greater
+# - "Too Low" if the guess is smaller
+# - "Correct!" when the number is guessed

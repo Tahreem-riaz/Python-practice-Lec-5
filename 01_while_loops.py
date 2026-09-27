@@ -333,3 +333,7 @@ if guess > secret_number:
 # Check if the guess is smaller than the secret number.
 elif guess < secret_number:
     print("Too Low")
+
+# This runs when the guess is correct.
+else:
+    print("Correct!")

@@ -151,3 +151,7 @@ while True:
         break
 
     print("You entered:", number)
+
+# ======================================================
+# TOPIC 7: CONTINUE WITH USER INPUT
+# ======================================================

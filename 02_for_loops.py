@@ -208,4 +208,7 @@ for number in numbers:
     else:
         zero_count += 1
 
-       
+     
+print("Positive Numbers:", positive_count)
+print("Negative Numbers:", negative_count)
+print("Zeros:", zero_count)  

@@ -205,3 +205,11 @@ print("Factorial:", factorial)
 
 even_count = 0
 even_sum = 0
+
+for number in range(1, 21):
+
+    if number % 2 == 0:
+
+        even_count += 1
+        even_sum += number
+

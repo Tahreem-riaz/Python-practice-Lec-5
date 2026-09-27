@@ -321,3 +321,7 @@ print("Python Found:", python_found)
 marks = [65, 72, 81, 55, 90]
 
 total = 0
+
+# Add each mark to the total.
+for mark in marks:
+    total += mark

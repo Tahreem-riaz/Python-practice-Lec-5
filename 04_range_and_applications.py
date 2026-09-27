@@ -103,3 +103,12 @@ for number in range(5, 51, 5):
 # ======================================================
 # TOPIC 6: MULTIPLICATION TABLE
 # ======================================================
+
+# ======================================================
+# Q6. MULTIPLICATION TABLE
+# ======================================================
+# Given:
+# number = 7
+#
+# Use range() and a for loop to print
+# the multiplication table of 7 from 1 to 10.

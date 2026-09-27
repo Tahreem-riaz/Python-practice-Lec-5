@@ -133,3 +133,13 @@ for number in numbers:
 # ======================================================
 # TOPIC 6: BREAK WITH USER INPUT
 # ======================================================
+
+# ======================================================
+# Q6. STOP WHEN USER ENTERS ZERO
+# ======================================================
+# Use a while loop to repeatedly ask the user
+# to enter a number.
+#
+# If the user enters 0, stop the loop.
+# Otherwise, print the entered number.
+#

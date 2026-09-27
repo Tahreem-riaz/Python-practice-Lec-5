@@ -23,3 +23,31 @@ Concepts Used:
 # ======================================================
 # MOVIE DATA
 # ======================================================
+
+movies = [
+    {
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "rating": 9
+    },
+    {
+        "title": "The Lion King",
+        "genre": "Animation",
+        "rating": 8
+    },
+    {
+        "title": "Interstellar",
+        "genre": "Sci-Fi",
+        "rating": 9
+    },
+    {
+        "title": "Toy Story",
+        "genre": "Animation",
+        "rating": 8
+    },
+    {
+        "title": "The Dark Knight",
+        "genre": "Action",
+        "rating": 9
+    }
+]

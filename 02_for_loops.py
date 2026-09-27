@@ -283,3 +283,5 @@ for number in numbers:
 # a) Display each subject.
 # b) Count how many subjects are in the tuple.
 # c) Check whether "Python" is present.
+
+subjects = ("Python", "Math", "English", "Database", "AI")

@@ -177,3 +177,7 @@ for number in range(1, 11):
 # 5! = 5 × 4 × 3 × 2 × 1
 #
 # Display the final factorial.
+
+number = 5
+
+factorial = 1

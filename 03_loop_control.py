@@ -35,3 +35,13 @@ for number in range(1, 11):
 # ======================================================
 # TOPIC 2: BREAK WITH A LIST
 # ======================================================
+
+# ======================================================
+# Q2. FIND A NUMBER
+# ======================================================
+# Given:
+# numbers = [10, 25, 7, 18, 30, 12]
+#
+# Use a for loop to search for 18.
+# Print the numbers while searching.
+# Stop the loop when 18 is found.

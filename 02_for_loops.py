@@ -147,3 +147,6 @@ for number in numbers:
 
     # Calculate the square.
     square = number ** 2
+
+print("Number:", number, "Square:", square)
+

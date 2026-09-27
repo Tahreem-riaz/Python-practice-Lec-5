@@ -270,3 +270,5 @@ else:
 # selects option 4.
 #
 # Display a suitable message for each option.   
+
+choice = ""

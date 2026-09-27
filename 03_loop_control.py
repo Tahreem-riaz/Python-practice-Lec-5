@@ -71,3 +71,10 @@ for number in numbers:
 # Stop when the letter is "D".
 
 letters = ["A", "B", "C", "D", "E", "F"]
+
+for letter in letters:
+
+    if letter == "D":
+        break
+
+    print(letter)

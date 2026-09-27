@@ -319,3 +319,8 @@ else:
 
 secret_number = 25
 guess = 0
+
+# Continue asking until the correct number is guessed.
+while guess != secret_number:
+
+    guess = int(input("Guess the secret number: "))

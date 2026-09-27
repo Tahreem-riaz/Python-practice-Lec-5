@@ -112,3 +112,7 @@ for character in text.lower():
         if character in vowels:
             vowel_count += 1
             vowel_frequency[character] += 1
+
+         # Otherwise, it is a consonant.
+        else:
+            consonant_count += 1

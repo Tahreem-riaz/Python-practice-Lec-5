@@ -144,3 +144,6 @@ numbers = [2, 4, 6, 8, 10]
 
 # Loop through each number.
 for number in numbers:
+
+    # Calculate the square.
+    square = number ** 2

@@ -328,3 +328,8 @@ while guess != secret_number:
 # Check if the guess is greater than the secret number.
 if guess > secret_number:
     print("Too High")
+
+
+# Check if the guess is smaller than the secret number.
+elif guess < secret_number:
+    print("Too Low")

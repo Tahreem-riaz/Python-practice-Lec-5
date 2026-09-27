@@ -5,7 +5,7 @@
 ========================================================
 Topics: for loops, nested loops, lists, tuples,
         strings, range, counters, calculations
-Total Questions: 10
+Total Questions: 9
 ========================================================
 """
 
@@ -306,3 +306,14 @@ print("Python Found:", python_found)
 # ======================================================
 # TOPIC 9: FOR LOOPS WITH TOTAL AND AVERAGE
 # ======================================================
+
+# ======================================================
+# Q9. MARKS TOTAL AND AVERAGE
+# ======================================================
+# Given:
+# marks = [65, 72, 81, 55, 90]
+#
+# Use a for loop to:
+# a) Calculate the total marks.
+# b) Calculate the average marks.
+# c) Display the average.

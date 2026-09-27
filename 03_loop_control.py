@@ -83,3 +83,12 @@ for letter in letters:
 # ======================================================
 # TOPIC 4: CONTINUE WITH A LIST
 # ======================================================
+
+# ======================================================
+# Q5. SKIP NEGATIVE NUMBERS
+# ======================================================
+# Given:
+# numbers = [10, -5, 8, -2, 15, -7, 20]
+#
+# Use a for loop to print only positive numbers.
+# Use continue to skip negative numbers.

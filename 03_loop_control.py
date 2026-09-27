@@ -101,3 +101,7 @@ for number in numbers:
         continue
 
     print(number)
+
+# ======================================================
+# TOPIC 5: BREAK AND CONTINUE TOGETHER
+# ======================================================

@@ -178,3 +178,14 @@ for number in numbers:
 # ======================================================
 # TOPIC 5: FOR LOOPS WITH COUNTERS
 # ======================================================
+
+# ======================================================
+# Q5. COUNT POSITIVE AND NEGATIVE NUMBERS
+# ======================================================
+# Given:
+# numbers = [10, -5, 7, -2, 0, 15, -8, 4]
+#
+# Use a for loop to:
+# a) Count positive numbers.
+# b) Count negative numbers.
+# c) Count zeros.

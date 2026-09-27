@@ -139,3 +139,5 @@ print("Vowel Frequency:", vowel_frequency)
 #
 # Example:
 # Number: 2 Square: 4
+
+numbers = [2, 4, 6, 8, 10]

@@ -276,3 +276,9 @@ choice = ""
 
 # Keep displaying the menu until option 4 is selected.
 while choice != "4":
+
+  print("\n----- MENU -----")
+  print("1. View Profile")
+  print("2. View Courses")
+  print("3. View Skills")
+  print("4. Exit")

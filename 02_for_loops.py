@@ -52,4 +52,6 @@ for number, mark in enumerate(marks, start=1):
     # Check for the lowest mark.
     if mark < lowest_marks:
         lowest_marks = mark
-    
+
+# Calculate the class average.
+average = total_marks / len(marks)    

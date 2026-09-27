@@ -316,3 +316,6 @@ else:
 # - "Too High" if the guess is greater
 # - "Too Low" if the guess is smaller
 # - "Correct!" when the number is guessed
+
+secret_number = 25
+guess = 0

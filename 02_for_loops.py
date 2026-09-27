@@ -165,3 +165,12 @@ print("Number:", number, "Square:", square)
 # b) Display whether the number is even or odd.
 
 numbers = [12, 7, 18, 5, 20, 9, 14, 3]
+
+# Check each number.
+for number in numbers:
+
+    if number % 2 == 0:
+        print(number, "is Even")
+    else:
+        print(number, "is Odd")
+

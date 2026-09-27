@@ -37,5 +37,7 @@ for number, mark in enumerate(marks, start=1):
 
     # Display each student's marks.
     print("Student", number, ":", mark)
-    
-     
+
+     # Add each mark to the total.
+    total_marks += mark
+ 

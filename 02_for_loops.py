@@ -226,3 +226,7 @@ print("Zeros:", zero_count)
 # c) Calculate the sum of numbers from 1 to 20.
 
 print("Numbers from 1 to 20:")
+
+# Display numbers from 1 to 20.
+for number in range(1, 21):
+    print(number)

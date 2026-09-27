@@ -55,3 +55,8 @@ for number in numbers:
     if number == 18:
         print("Number Found!")
         break
+
+
+# ======================================================
+# TOPIC 3: BREAK WITH STRINGS
+# ======================================================   

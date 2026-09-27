@@ -223,3 +223,16 @@ print("Sum of Numbers:", total)
 # ==========================================
 # PART D: REAL-LIFE APPLICATIONS
 # ==========================================
+
+# Q8. Login System
+#
+# Create a simple login system.
+#
+# Ask the user for:
+# - Username
+# - Password
+#
+# Keep asking until both are correct.
+#
+# Display "Login Successful" after valid
+# information is entered.

@@ -3,7 +3,7 @@
           LECTURE 05 - FILE 3: LOOP CONTROL
 ========================================================
 Topics: break, continue, pass, and loop control
-Total Questions: 10
+Total Questions: 7
 ========================================================
 """
 
@@ -179,4 +179,4 @@ while count < 5:
         continue
 
 print("Positive Number:", number)
-    
+

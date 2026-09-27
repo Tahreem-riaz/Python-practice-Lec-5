@@ -23,3 +23,10 @@ Total Questions: 10
 # 3
 # 4
 # 5
+
+for number in range(1, 11):
+
+    if number == 6:
+        break
+
+    print(number)

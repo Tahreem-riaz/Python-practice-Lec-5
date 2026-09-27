@@ -153,3 +153,13 @@ print("Number:", number, "Square:", square)
 # ======================================================
 # TOPIC 4: FOR LOOPS WITH CONDITIONS
 # ======================================================
+
+# ======================================================
+# Q4. EVEN AND ODD NUMBERS
+# ======================================================
+# Given:
+# numbers = [12, 7, 18, 5, 20, 9, 14, 3]
+#
+# Use a for loop to:
+# a) Check each number.
+# b) Display whether the number is even or odd.

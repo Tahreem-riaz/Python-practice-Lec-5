@@ -177,3 +177,6 @@ while count < 5:
 
     if number < 0:
         continue
+
+print("Positive Number:", number)
+    

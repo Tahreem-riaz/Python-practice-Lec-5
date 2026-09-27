@@ -34,10 +34,10 @@ while password != correct_password:
  password = input("Enter your password: ")
 
  # Check if the entered password is correct.
-    if password == correct_password:
-        print("Access Granted!")
-    else:
-        print("Incorrect Password. Try again.")
+if password == correct_password:
+    print("Access Granted!")
+else:
+    print("Incorrect Password. Try again.")
 
 print("Welcome to the system!")
 
@@ -63,13 +63,13 @@ marks = int(input("Enter marks (-1 to stop): "))
 
 while marks != -1:
 
-# Add the marks to the total.
-total_marks += marks
+    # Add the marks to the total.
+    total_marks += marks
 
-# Count the subject.
-subject_count += 1
+    # Count the subject.
+    subject_count += 1
 
- marks = int(input("Enter marks (-1 to stop): "))
+    marks = int(input("Enter marks (-1 to stop): "))
 
 print("Total Marks:", total_marks)
 print("Number of Subjects:", subject_count)
@@ -150,10 +150,10 @@ target = 100000
 # Continue taking savings until the target is reached.
 while savings < target:
 
-monthly_saving = float(input("Enter amount saved this month: "))
+monthlysaving = float(input("Enter amount saved this month: "))
 
 # Add the monthly saving to the total.
-savings += monthly_saving
+savings += monthlysaving
 
 print("Current Savings:", savings)
 
@@ -204,19 +204,20 @@ print("Positive Numbers:", positive_count)
 #
 # Write your code below:
 
+# Sum of Numbers Until -1
+
 total = 0
 
-# Ask for the first number.
+# Ask the user for the first number.
 number = int(input("Enter a number (-1 to stop): "))
 
-# Continue until -1 is entered.
 while number != -1:
 
-# Add the number to the total.
-total += number
+    # Add the number to the total.
+    total += number
 
- # Ask for the next number.
-number = int(input("Enter a number (-1 to stop): "))
+    # Ask for the next number.
+    number = int(input("Enter a number (-1 to stop): "))
 
 print("Sum of Numbers:", total)
 

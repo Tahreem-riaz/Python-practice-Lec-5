@@ -142,4 +142,12 @@ for number in numbers:
 #
 # If the user enters 0, stop the loop.
 # Otherwise, print the entered number.
-#
+
+while True:
+
+    number = int(input("Enter a number (0 to stop): "))
+
+    if number == 0:
+        break
+
+    print("You entered:", number)

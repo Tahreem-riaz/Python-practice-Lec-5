@@ -259,3 +259,6 @@ print("Sum:", total)
 # Use a for loop to:
 # a) Check every number.
 # b) Display numbers greater than the limit.
+
+numbers = [15, 8, 23, 4, 19, 30, 11]
+limit = 15

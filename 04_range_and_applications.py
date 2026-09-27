@@ -141,3 +141,16 @@ for number in range(1, 31):
 # ======================================================
 # TOPIC 8: CALCULATE SQUARES
 # ======================================================
+
+# ======================================================
+# Q8. NUMBER AND ITS SQUARE
+# ======================================================
+# Use range() to go from 1 to 10.
+#
+# For each number, display:
+#
+# Number: 1 Square: 1
+# Number: 2 Square: 4
+# Number: 3 Square: 9
+#
+# Continue until 10.

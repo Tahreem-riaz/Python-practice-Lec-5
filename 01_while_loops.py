@@ -324,3 +324,7 @@ guess = 0
 while guess != secret_number:
 
     guess = int(input("Guess the secret number: "))
+
+# Check if the guess is greater than the secret number.
+if guess > secret_number:
+    print("Too High")

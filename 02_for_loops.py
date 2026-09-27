@@ -121,3 +121,8 @@ print("Vowels:", vowel_count)
 print("Consonants:", consonant_count)
 print("Total Letters:", letter_count)
 print("Vowel Frequency:", vowel_frequency)
+
+
+# ======================================================
+# TOPIC 3: BASIC FOR LOOPS WITH NUMBERS
+# ======================================================

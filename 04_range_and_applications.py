@@ -213,3 +213,5 @@ for number in range(1, 21):
         even_count += 1
         even_sum += number
 
+print("Even Numbers Count:", even_count)
+print("Sum of Even Numbers:", even_sum)

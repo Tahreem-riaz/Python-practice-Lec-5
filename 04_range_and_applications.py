@@ -191,3 +191,14 @@ print("Factorial:", factorial)
 # ======================================================
 # TOPIC 10: COUNT AND SUM
 # ======================================================
+
+# ======================================================
+# Q10. POSITIVE NUMBER APPLICATION
+# ======================================================
+# Use range() to go from 1 to 20.
+#
+# Use a for loop to:
+# a) Count how many numbers are even.
+# b) Calculate the sum of even numbers.
+#
+# Display both results.

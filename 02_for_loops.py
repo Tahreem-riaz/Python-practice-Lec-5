@@ -104,3 +104,6 @@ for character in text.lower():
 
 # Process only alphabetic characters.
     if character.isalpha():
+
+       # Count the total number of letters.
+        letter_count += 1

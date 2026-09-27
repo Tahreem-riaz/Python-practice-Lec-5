@@ -48,3 +48,8 @@ for number, mark in enumerate(marks, start=1):
     # Check for the highest mark.
     if mark > highest_marks:
         highest_marks = mark
+
+    # Check for the lowest mark.
+    if mark < lowest_marks:
+        lowest_marks = mark
+    

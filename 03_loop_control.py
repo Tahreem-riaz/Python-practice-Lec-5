@@ -94,3 +94,10 @@ for letter in letters:
 # Use continue to skip negative numbers.
 
 numbers = [10, -5, 8, -2, 15, -7, 20]
+
+for number in numbers:
+
+    if number < 0:
+        continue
+
+    print(number)

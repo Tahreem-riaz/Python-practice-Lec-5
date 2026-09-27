@@ -155,3 +155,14 @@ while True:
 # ======================================================
 # TOPIC 7: CONTINUE WITH USER INPUT
 # ======================================================
+
+# ======================================================
+# Q7. SKIP NEGATIVE INPUT
+# ======================================================
+# Use a while loop to ask the user for 5 numbers.
+#
+# If the number is negative:
+# - Skip it using continue.
+#
+# Otherwise:
+# - Print the number.

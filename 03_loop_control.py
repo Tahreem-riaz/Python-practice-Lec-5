@@ -118,3 +118,13 @@ for number in numbers:
 # c) Print the other numbers.
 
 numbers = [5, -2, 8, 0, 12, -4, 20, 25, 7]
+
+for number in numbers:
+
+    if number <= 0:
+        continue
+
+    if number == 20:
+        break
+
+    print(number)

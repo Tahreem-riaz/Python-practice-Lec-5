@@ -245,3 +245,7 @@ password = ""
 
 # Continue until both username and password are correct.
 while username != correct_username or password != correct_password:
+
+username = input("Enter username: ")
+password = input("Enter password: ")
+   

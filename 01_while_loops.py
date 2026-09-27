@@ -242,3 +242,6 @@ correct_password = "12345"
 
 username = ""
 password = ""
+
+# Continue until both username and password are correct.
+while username != correct_username or password != correct_password:

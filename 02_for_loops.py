@@ -232,3 +232,7 @@ for number in range(1, 21):
     print(number)
 
 print("\nEven Numbers:")    
+
+# Display even numbers from 2 to 20.
+for number in range(2, 21, 2):
+    print(number)

@@ -40,4 +40,7 @@ for number, mark in enumerate(marks, start=1):
 
      # Add each mark to the total.
     total_marks += mark
- 
+
+    # Count students who passed.
+    if mark >= 50:
+        passed_students += 1

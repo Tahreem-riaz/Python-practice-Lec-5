@@ -21,3 +21,10 @@ Concepts Used:
 # ======================================================
 
 tasks = []
+
+# Keep showing the menu until the user exits.
+while True:
+
+    print("\n" + "=" * 35)
+    print("          TO-DO LIST")
+    print("=" * 35)

@@ -116,3 +116,6 @@ for character in text.lower():
          # Otherwise, it is a consonant.
         else:
             consonant_count += 1
+
+print("Vowels:", vowel_count)
+print("Consonants:", consonant_count)

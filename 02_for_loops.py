@@ -299,3 +299,6 @@ for subject in subjects:
  # Check whether Python is present.
     if subject == "Python":
         python_found = True
+
+print("Total Subjects:", subject_count)
+print("Python Found:", python_found)

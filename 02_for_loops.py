@@ -24,3 +24,5 @@ Total Questions: 10
 # b) Count how many students passed (marks >= 50).
 # c) Find the highest and lowest marks.
 # d) Calculate the class average.
+
+marks = [78, 45, 92, 33, 86, 59, 71, 28]

@@ -44,3 +44,7 @@ for number, mark in enumerate(marks, start=1):
     # Count students who passed.
     if mark >= 50:
         passed_students += 1
+
+    # Check for the highest mark.
+    if mark > highest_marks:
+        highest_marks = mark

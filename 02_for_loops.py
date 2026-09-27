@@ -77,3 +77,7 @@ print("Class Average:", average)
 # b) Ignore spaces.
 # c) Count how many times each vowel occurs.
 # d) Display the total number of letters.
+
+text = "programming is a powerful skill"
+
+vowels = "aeiou"

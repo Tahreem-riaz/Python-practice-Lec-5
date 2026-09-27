@@ -69,3 +69,5 @@ for number in numbers:
 #
 # Use a for loop to print each letter.
 # Stop when the letter is "D".
+
+letters = ["A", "B", "C", "D", "E", "F"]

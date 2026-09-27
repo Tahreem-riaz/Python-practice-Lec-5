@@ -135,3 +135,6 @@ print(number, "x", multiplier, "=", result)
 for number in range(1, 31):
 
     if number % 3 == 0:
+        print(number)
+
+        

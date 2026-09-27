@@ -224,3 +224,5 @@ print("Zeros:", zero_count)
 # a) Display numbers from 1 to 20.
 # b) Display even numbers from 2 to 20.
 # c) Calculate the sum of numbers from 1 to 20.
+
+print("Numbers from 1 to 20:")

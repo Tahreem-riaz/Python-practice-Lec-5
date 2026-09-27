@@ -81,3 +81,7 @@ print("Class Average:", average)
 text = "programming is a powerful skill"
 
 vowels = "aeiou"
+
+vowel_count = 0
+consonant_count = 0
+letter_count = 0

@@ -47,3 +47,11 @@ for number in range(1, 11):
 # Stop the loop when 18 is found.
 
 numbers = [10, 25, 7, 18, 30, 12]
+
+for number in numbers:
+
+    print("Checking:", number)
+
+    if number == 18:
+        print("Number Found!")
+        break

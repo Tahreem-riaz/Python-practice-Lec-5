@@ -72,3 +72,8 @@ for number in range(10, 0, -1):
 # ======================================================
 # Use range() and a for loop to calculate
 # the sum of numbers from 1 to 10.
+
+total = 0
+
+for number in range(1, 11):
+    total += number

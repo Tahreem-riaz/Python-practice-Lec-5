@@ -299,3 +299,8 @@ elif choice == "4":
 
 else:
     print("Invalid choice. Please try again.")
+
+
+# ==========================================
+# PART E: CHALLENGE
+# ==========================================

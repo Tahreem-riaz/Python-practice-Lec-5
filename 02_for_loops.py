@@ -248,3 +248,14 @@ print("Sum:", total)
 # ======================================================
 # TOPIC 7: FOR LOOPS WITH LISTS
 # ======================================================
+
+# ======================================================
+# Q7. FIND NUMBERS GREATER THAN A VALUE
+# ======================================================
+# Given:
+# numbers = [15, 8, 23, 4, 19, 30, 11]
+# limit = 15
+#
+# Use a for loop to:
+# a) Check every number.
+# b) Display numbers greater than the limit.

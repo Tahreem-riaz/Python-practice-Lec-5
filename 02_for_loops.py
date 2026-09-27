@@ -55,3 +55,6 @@ for number, mark in enumerate(marks, start=1):
 
 # Calculate the class average.
 average = total_marks / len(marks)    
+
+print("Passed Students:", passed_students)
+print("Highest Marks:", highest_marks)

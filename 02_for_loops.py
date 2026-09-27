@@ -195,3 +195,15 @@ numbers = [10, -5, 7, -2, 0, 15, -8, 4]
 positive_count = 0
 negative_count = 0
 zero_count = 0
+
+# Check every number.
+for number in numbers:
+
+    if number > 0:
+        positive_count += 1
+
+    elif number < 0:
+        negative_count += 1
+
+    else:
+        zero_count += 1

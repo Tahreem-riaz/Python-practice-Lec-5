@@ -97,3 +97,7 @@ vowel_frequency = {
 
 # Loop through every character in the text.
 for character in text.lower():
+
+    # Ignore spaces.
+    if character == " ":
+        continue

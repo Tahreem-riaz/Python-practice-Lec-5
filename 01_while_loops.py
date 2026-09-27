@@ -282,3 +282,5 @@ while choice != "4":
   print("2. View Courses")
   print("3. View Skills")
   print("4. Exit")
+
+choice = input("Enter your choice: ")

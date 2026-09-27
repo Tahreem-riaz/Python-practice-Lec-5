@@ -302,3 +302,7 @@ for subject in subjects:
 
 print("Total Subjects:", subject_count)
 print("Python Found:", python_found)
+
+# ======================================================
+# TOPIC 9: FOR LOOPS WITH TOTAL AND AVERAGE
+# ======================================================

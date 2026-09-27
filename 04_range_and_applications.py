@@ -154,3 +154,7 @@ for number in range(1, 31):
 # Number: 3 Square: 9
 #
 # Continue until 10.
+
+for number in range(1, 11):
+
+    square = number ** 2

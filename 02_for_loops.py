@@ -101,3 +101,6 @@ for character in text.lower():
     # Ignore spaces.
     if character == " ":
         continue
+
+# Process only alphabetic characters.
+    if character.isalpha():

@@ -236,3 +236,5 @@ print("\nEven Numbers:")
 # Display even numbers from 2 to 20.
 for number in range(2, 21, 2):
     print(number)
+
+total = 0 

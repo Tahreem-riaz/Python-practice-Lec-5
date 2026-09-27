@@ -166,3 +166,14 @@ while True:
 #
 # Otherwise:
 # - Print the number.
+
+count = 0
+
+while count < 5:
+
+    number = int(input("Enter a number: "))
+
+    count += 1
+
+    if number < 0:
+        continue

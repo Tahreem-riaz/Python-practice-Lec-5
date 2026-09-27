@@ -254,4 +254,19 @@ if username == correct_username and password == correct_password:
     print("Login Successful")
 else:
     print("Invalid username or password. Try again.")
+
+# ------------------------------------------
    
+# Q9. Menu System
+#
+# Create a simple menu:
+#
+# 1. View Profile
+# 2. View Courses
+# 3. View Skills
+# 4. Exit
+#
+# Keep displaying the menu until the user
+# selects option 4.
+#
+# Display a suitable message for each option.   

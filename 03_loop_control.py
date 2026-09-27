@@ -116,3 +116,5 @@ for number in numbers:
 # a) Skip negative numbers and zero.
 # b) Stop when the number is 20.
 # c) Print the other numbers.
+
+numbers = [5, -2, 8, 0, 12, -4, 20, 25, 7]

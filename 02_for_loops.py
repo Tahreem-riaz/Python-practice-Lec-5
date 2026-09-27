@@ -291,3 +291,7 @@ python_found = False
 
 # Loop through each subject.
 for subject in subjects:
+
+    print("Subject:", subject)
+
+    subject_count += 1

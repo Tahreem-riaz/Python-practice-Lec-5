@@ -191,3 +191,7 @@ for number in numbers:
 # c) Count zeros.
 
 numbers = [10, -5, 7, -2, 0, 15, -8, 4]
+
+positive_count = 0
+negative_count = 0
+zero_count = 0

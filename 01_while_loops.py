@@ -248,4 +248,10 @@ while username != correct_username or password != correct_password:
 
 username = input("Enter username: ")
 password = input("Enter password: ")
+
+# Check both login details.
+if username == correct_username and password == correct_password:
+    print("Login Successful")
+else:
+    print("Invalid username or password. Try again.")
    

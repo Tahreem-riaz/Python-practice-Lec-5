@@ -99,3 +99,7 @@ print("Sum:", total)
 
 for number in range(5, 51, 5):
     print(number)
+
+# ======================================================
+# TOPIC 6: MULTIPLICATION TABLE
+# ======================================================

@@ -212,3 +212,7 @@ for number in numbers:
 print("Positive Numbers:", positive_count)
 print("Negative Numbers:", negative_count)
 print("Zeros:", zero_count)  
+
+# ======================================================
+# TOPIC 6: FOR LOOPS WITH RANGE()
+# ======================================================

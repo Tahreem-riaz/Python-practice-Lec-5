@@ -163,3 +163,5 @@ print("Number:", number, "Square:", square)
 # Use a for loop to:
 # a) Check each number.
 # b) Display whether the number is even or odd.
+
+numbers = [12, 7, 18, 5, 20, 9, 14, 3]

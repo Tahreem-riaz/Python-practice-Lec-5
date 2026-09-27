@@ -262,3 +262,9 @@ print("Sum:", total)
 
 numbers = [15, 8, 23, 4, 19, 30, 11]
 limit = 15
+
+# Check every number in the list.
+for number in numbers:
+
+    if number > limit:
+        print(number)

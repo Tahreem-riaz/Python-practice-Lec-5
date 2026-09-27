@@ -96,3 +96,6 @@ print("Sum:", total)
 # 15
 # ...
 # 50
+
+for number in range(5, 51, 5):
+    print(number)

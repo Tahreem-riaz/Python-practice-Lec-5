@@ -92,3 +92,5 @@ for letter in letters:
 #
 # Use a for loop to print only positive numbers.
 # Use continue to skip negative numbers.
+
+numbers = [10, -5, 8, -2, 15, -7, 20]

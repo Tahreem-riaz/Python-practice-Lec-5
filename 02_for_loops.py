@@ -35,4 +35,7 @@ lowest_marks = marks[0]
 # Loop through the marks with student numbering.
 for number, mark in enumerate(marks, start=1):
 
+    # Display each student's marks.
+    print("Student", number, ":", mark)
     
+     

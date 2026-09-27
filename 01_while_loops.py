@@ -236,3 +236,6 @@ print("Sum of Numbers:", total)
 #
 # Display "Login Successful" after valid
 # information is entered.
+
+correct_username = "student"
+correct_password = "12345"

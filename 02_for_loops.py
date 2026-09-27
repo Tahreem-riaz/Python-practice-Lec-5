@@ -85,3 +85,12 @@ vowels = "aeiou"
 vowel_count = 0
 consonant_count = 0
 letter_count = 0
+
+# Create a dictionary to store the frequency of each vowel.
+vowel_frequency = {
+    "a": 0,
+    "e": 0,
+    "i": 0,
+    "o": 0,
+    "u": 0
+}

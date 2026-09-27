@@ -126,3 +126,16 @@ print("Vowel Frequency:", vowel_frequency)
 # ======================================================
 # TOPIC 3: BASIC FOR LOOPS WITH NUMBERS
 # ======================================================
+
+# ======================================================
+# Q3. NUMBER SQUARES
+# ======================================================
+# Given:
+# numbers = [2, 4, 6, 8, 10]
+#
+# Use a for loop to:
+# a) Print each number.
+# b) Calculate and print its square.
+#
+# Example:
+# Number: 2 Square: 4

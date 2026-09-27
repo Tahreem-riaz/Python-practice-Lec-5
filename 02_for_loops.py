@@ -174,3 +174,7 @@ for number in numbers:
     else:
         print(number, "is Odd")
 
+
+# ======================================================
+# TOPIC 5: FOR LOOPS WITH COUNTERS
+# ======================================================

@@ -57,3 +57,6 @@ for number in range(2, 21, 2):
 # 8
 # ...
 # 1
+
+for number in range(10, 0, -1):
+    print(number)

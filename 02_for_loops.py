@@ -268,3 +268,7 @@ for number in numbers:
 
     if number > limit:
         print(number)
+
+# ======================================================
+# TOPIC 8: FOR LOOPS WITH TUPLES
+# ======================================================

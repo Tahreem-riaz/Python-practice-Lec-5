@@ -40,12 +40,12 @@ while True:
 # ==================================================
 # ADD TASK
 # ==================================================
+    if choice == "1":
 
-if choice == "1":
-    
-    task = input("Enter a task: ")
-    
-    tasks.append(task)
-    
-    
-print("Task added successfully!")
+        task = input("Enter a task: ")
+
+        tasks.append(task)
+
+        print("Task added successfully!")
+
+        

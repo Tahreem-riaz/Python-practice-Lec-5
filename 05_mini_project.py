@@ -60,3 +60,14 @@ while True:
         if len(tasks) == 0:
 
             print("No tasks available.")
+        else:
+
+            # Use range() to number the tasks.
+            for number in range(len(tasks)):
+
+                print(
+                    number + 1,
+                    ".",
+                    tasks[number]
+                )
+

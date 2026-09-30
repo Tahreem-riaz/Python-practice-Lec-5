@@ -52,3 +52,11 @@ while True:
 # ==================================================
 # VIEW TASKS
 # ==================================================
+
+    elif choice == "2":
+
+        print("\n--- YOUR TASKS ---")
+
+        if len(tasks) == 0:
+
+            print("No tasks available.")

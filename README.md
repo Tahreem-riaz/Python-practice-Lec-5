@@ -43,3 +43,15 @@ This repository contains my practice work for Lecture 05 of my Python learning j
 | `05_mini_project.py` | Interactive Console To-Do List Application | Mini Project |
 
 ---
+## 📂 Repository Structure
+
+```text
+lecture-05/
+│
+├── README.md
+│
+├── 01_while_loops.py
+├── 02_for_loops.py
+├── 03_loops_with_collections.py
+├── 04_loop_control_and_range.py
+└── 05_mini_project.py

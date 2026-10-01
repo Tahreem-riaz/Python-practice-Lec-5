@@ -95,3 +95,10 @@ while True:
         task_number = input(
             "Enter task number to remove: "
         )
+         # Make sure the user entered a number.
+        if not task_number.isdigit():
+
+            print("Please enter a valid number.")
+            continue
+
+        task_number = int(task_number)

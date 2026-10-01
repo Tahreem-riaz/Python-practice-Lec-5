@@ -95,3 +95,17 @@ Focus on problem-solving logic rather than memorization.
 #### What It Does
 
 The program manages a terminal-based task list. It uses `while` loops to keep the application running, `for` loops to display formatted task numbers, and loop control statements to allow adding, completing, removing tasks, and exiting gracefully.
+
+## 📊 Learning Progress
+
+| Lecture | Topic | Status |
+| :--- | :--- | :---: |
+| Lecture 01 | Python Fundamentals | ✅ Completed |
+| Lecture 02 | Strings & Conditional Statements | ✅ Completed |
+| Lecture 03 | Lists & Tuples | ✅ Completed |
+| Lecture 04 | Dictionaries & Sets | ✅ Completed |
+| Lecture 05 | Loops in Python | ✅ Completed |
+| Lecture 06 | Functions & Recursion | ⏳ Pending |
+| Lecture 07 | File I/O | ⏳ Pending |
+| Lecture 08 | Object-Oriented Programming (OOP) | ⏳ Pending |
+| Lecture 09 | Exception Handling & Modules | ⏳ Pending |

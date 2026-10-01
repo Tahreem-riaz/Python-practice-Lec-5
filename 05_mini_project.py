@@ -130,3 +130,8 @@ while True:
 # ==================================================
 # INVALID CHOICE
 # ==================================================
+
+    else:
+
+      print("Invalid choice.")
+      print("Please choose from 1 to 4.")

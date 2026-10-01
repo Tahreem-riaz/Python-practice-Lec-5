@@ -37,8 +37,8 @@ This repository contains my practice work for Lecture 05 of my Python learning j
 | File | Topics | Questions |
 | :--- | :--- | :---: |
 | `01_while_loops.py` | While loops, counters, condition-based processing, and sequence sums | 10 |
-| `02_for_loops.py` | For loops, `range()`, sequence generation, and optional `else` blocks | 10 |
-| `03_loops_with_collections.py` | Iterating strings, lists, tuples, searching, and filtering collections | 10 |
+| `02_for_loops.py` | For loops, `range()`, sequence generation, and optional `else` blocks | 9 |
+| `03_loops_with_collections.py` | Iterating strings, lists, tuples, searching, and filtering collections | 7 |
 | `04_loop_control_and_range.py` | `break`, `continue`, reverse ranges, nested loops, and math calculations | 10 |
 | `05_mini_project.py` | Interactive Console To-Do List Application | Mini Project |
 
@@ -105,7 +105,7 @@ The program manages a terminal-based task list. It uses `while` loops to keep th
 | Lecture 03 | Lists & Tuples | ✅ Completed |
 | Lecture 04 | Dictionaries & Sets | ✅ Completed |
 | Lecture 05 | Loops in Python | ✅ Completed |
-| Lecture 06 | Functions & Recursion | ⏳ Pending |
-| Lecture 07 | File I/O | ⏳ Pending |
-| Lecture 08 | Object-Oriented Programming (OOP) | ⏳ Pending |
-| Lecture 09 | Exception Handling & Modules | ⏳ Pending |
+| Lecture 06 | Pending| ⏳ |
+| Lecture 07 | Pending| ⏳ |
+| Lecture 08 | Pending | ⏳ |
+| Lecture 09 | Pending | ⏳ |

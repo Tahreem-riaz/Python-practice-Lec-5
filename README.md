@@ -78,3 +78,20 @@ Focus on problem-solving logic rather than memorization.
 4. Experiment by modifying values, changing loop bounds, and testing different operations.
 5. Debug infinite loops and observe how Python tracks state across iterations.
 
+## 🚀 Mini Project
+
+### Console To-Do List Application
+
+`05_mini_project.py` brings together the concepts covered throughout Lecture 05.
+
+#### Concepts Applied
+
+- `while` loops for continuous menu-driven program execution
+- `for` loops with `enumerate()` for indexed task rendering
+- Loop control (`break`, `continue`) for program control and validation
+- Modifying sequence collections (adding, completing, and deleting tasks)
+- Basic user input handling and feedback display
+
+#### What It Does
+
+The program manages a terminal-based task list. It uses `while` loops to keep the application running, `for` loops to display formatted task numbers, and loop control statements to allow adding, completing, removing tasks, and exiting gracefully.

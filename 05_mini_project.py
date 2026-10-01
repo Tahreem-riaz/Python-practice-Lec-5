@@ -122,4 +122,9 @@ while True:
 
     elif choice == "4":
 
-        print("\nThank you for using the To-Do List!")
+     print("\nThank you for using the To-Do List!")
+
+     # Stop the while loop.
+     break
+
+   

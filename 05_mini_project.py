@@ -102,3 +102,16 @@ while True:
             continue
 
         task_number = int(task_number)
+
+         # Check whether the task number is valid.
+        if task_number < 1 or task_number > len(tasks):
+
+            print("Invalid task number.")
+            continue
+
+        removed_task = tasks.pop(task_number - 1)
+
+        print(
+            "Removed:",
+            removed_task
+        )

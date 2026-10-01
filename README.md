@@ -57,7 +57,7 @@ lecture-05/
 └── 05_mini_project.py
 
 ```
-🧠 Learning Goals
+## 🧠 Learning Goals
 Choosing appropriately between while and for loops based on the problem requirements.
 
 Controlling loop execution using explicit conditions and counters.

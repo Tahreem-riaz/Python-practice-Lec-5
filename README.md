@@ -55,3 +55,17 @@ lecture-05/
 ├── 03_loops_with_collections.py
 ├── 04_loop_control_and_range.py
 └── 05_mini_project.py
+
+```
+🧠 Learning Goals
+Choosing appropriately between while and for loops based on the problem requirements.
+
+Controlling loop execution using explicit conditions and counters.
+
+Iterating efficiently through common Python collections (strings, lists, tuples).
+
+Applying break and continue to manage execution flow effectively.
+
+Utilizing range() to construct forward and reverse numeric sequences.
+
+Combining loops, conditions, and lists to build interactive CLI utilities.

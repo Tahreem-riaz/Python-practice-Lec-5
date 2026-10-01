@@ -67,3 +67,14 @@ lecture-05/
 - Constructing forward and reverse numeric sequences
 - Solving loop-based mathematical calculations (Sum, Factorial)
 - Combining loops, conditions, and lists for practical CLI applications
+
+## 🧠 Practice Approach
+
+Focus on problem-solving logic rather than memorization.
+
+1. Understand the data structures and identify the problem requirements.
+2. Attempt each problem independently before checking the solution.
+3. Run and test the scripts in your terminal to verify the output.
+4. Experiment by modifying values, changing loop bounds, and testing different operations.
+5. Debug infinite loops and observe how Python tracks state across iterations.
+

@@ -31,3 +31,15 @@ This repository contains my practice work for Lecture 05 of my Python learning j
 * Solving mathematical problems (Factorial, Sum of natural numbers)
 
 ---
+
+## 📁 Practice Files
+
+| File | Topics | Questions |
+| :--- | :--- | :---: |
+| `01_while_loops.py` | While loops, counters, condition-based processing, and sequence sums | 10 |
+| `02_for_loops.py` | For loops, `range()`, sequence generation, and optional `else` blocks | 10 |
+| `03_loops_with_collections.py` | Iterating strings, lists, tuples, searching, and filtering collections | 10 |
+| `04_loop_control_and_range.py` | `break`, `continue`, reverse ranges, nested loops, and math calculations | 10 |
+| `05_mini_project.py` | Interactive Console To-Do List Application | Mini Project |
+
+---

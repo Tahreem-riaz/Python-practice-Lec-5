@@ -74,3 +74,24 @@ while True:
 # ==================================================
 # REMOVE TASK
 # ==================================================
+
+    elif choice == "3":
+
+        if len(tasks) == 0:
+
+            print("There are no tasks to remove.")
+            continue
+
+        print("\n--- YOUR TASKS ---")
+
+        for number in range(len(tasks)):
+
+            print(
+                number + 1,
+                ".",
+                tasks[number]
+            )
+
+        task_number = input(
+            "Enter task number to remove: "
+        )

@@ -1,5 +1,5 @@
 
-#🐍 Lecture 05 — Loops in Python
+# 🐍 Lecture 05 — Loops in Python
 
 A collection of Python practice exercises covering while loops, loop control statements, iteration over collections, the `range()` function, and practical loop-based applications, along with a hands-on mini project.
 
